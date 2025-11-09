@@ -1,8 +1,5 @@
 ### **2️⃣ Buat file laporan-react-query.md**
 
-Di root folder, buat file `laporan-react-query.md`:
-
-```markdown
 # Laporan React Query – Praktikum Performance Optimization
 
 ## 🧠 Perbandingan Waktu Respons
