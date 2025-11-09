@@ -1,0 +1,77 @@
+:root {
+  --primary: #1e40af; /* biru tua */
+  --secondary: #93c5fd; /* biru muda */
+  --accent: #facc15; /* kuning lembut */
+  --bg: #f8fafc; /* abu terang */
+  --text: #1e293b; /* abu gelap */
+}
+
+/* Global */
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: 'Inter', sans-serif;
+}
+
+/* Header */
+header {
+  background-color: var(--primary);
+  color: white;
+  padding: 1rem;
+  border-bottom: 4px solid var(--accent);
+}
+
+/* Tombol */
+button {
+  background-color: var(--primary);
+  color: white;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  transition: all 0.2s ease-in-out;
+  font-weight: 500;
+}
+
+button:hover {
+  background-color: var(--secondary);
+  color: var(--text);
+}
+
+/* Input Search */
+input[type="text"] {
+  border: 1px solid var(--secondary);
+  border-radius: 8px;
+  padding: 0.4rem 0.8rem;
+  width: 100%;
+}
+
+input[type="text"]:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 4px var(--secondary);
+}
+
+/* Kartu produk */
+.product-card {
+  background-color: white;
+  border: 1px solid #e5e7eb;
+  border-left: 5px solid var(--secondary);
+  border-radius: 10px;
+  padding: 0.8rem;
+  margin-bottom: 0.5rem;
+  transition: transform 0.15s ease-in-out;
+}
+
+.product-card:hover {
+  transform: scale(1.01);
+  background-color: #eff6ff;
+}
+
+/* Keranjang bar */
+.cart-summary {
+  background-color: #dbeafe;
+  border: 1px solid var(--secondary);
+  border-radius: 6px;
+  padding: 0.6rem;
+  margin-bottom: 0.8rem;
+  font-weight: 500;
+}
