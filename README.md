@@ -125,4 +125,8 @@ Aplikasi menjadi **lebih efisien, modern, dan scalable**, sesuai praktik terbaik
 
 **Disusun oleh:**  
 👨‍💻 Bryan Yogie Saputra  
+<<<<<<< HEAD
 📚 D3 Teknik Informatika – Universitas Sebelas Maret
+=======
+📚 D3 Teknik Informatika – Universitas Sebelas Maret
+>>>>>>> 8acb77a516810e64bfbba92f37e0062f3fb2546d
