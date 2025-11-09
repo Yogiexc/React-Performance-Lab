@@ -74,10 +74,5 @@ Skalabilitas	Sulit	Mudah diatur
 👨‍💻 Author
 Bryan Yogie Saputra
 Program Studi D3 Teknik Informatika, Universitas Sebelas Maret
-📧 Email: bryanyogiesaputra@email.com
-
-📅 Deadline
-🗓️ Dikumpulkan paling lambat Senin, 10 November 2025 ke email dosen:
-nanang.my@staff.uns.ac.id
----
+📧 Email: bryanyogie@student.uns.ac.id
 
